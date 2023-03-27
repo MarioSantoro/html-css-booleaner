@@ -17,3 +17,11 @@ header > img{
 main > h1{
     font-size: 5rem;
 }
+
+.text-gray{
+    color: gray;
+}
+
+.text-gray > span{
+    color: #31afe6;
+}
