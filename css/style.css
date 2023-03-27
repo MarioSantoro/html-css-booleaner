@@ -47,3 +47,7 @@ main > h1{
 .Lorem > span{
     background-color: yellow;
 }
+
+ul{
+    padding: 20px;
+}
