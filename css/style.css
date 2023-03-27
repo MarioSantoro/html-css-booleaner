@@ -14,6 +14,9 @@ header > img{
     margin-bottom: 20px;
 }
 
+main{
+    padding: 10px;
+}
 main > h1{
     font-size: 5rem;
 }
@@ -24,4 +27,13 @@ main > h1{
 
 .text-gray > span{
     color: #31afe6;
+}
+
+#Tim-1{
+    width: 55%;
+    height: 550px;
+}
+#Tim-2{
+    width: 43%;
+    height: 550px;
 }
