@@ -37,3 +37,11 @@ main > h1{
     width: 43%;
     height: 550px;
 }
+
+.Lorem{
+    margin: 20px 0;
+}
+
+.Lorem > span{
+    background-color: yellow;
+}
