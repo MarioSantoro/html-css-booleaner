@@ -30,10 +30,12 @@ main > h1{
 }
 
 #Tim-1{
+    margin-top: 10px;
     width: 55%;
     height: 550px;
 }
 #Tim-2{
+    margin-top:10px ;
     width: 43%;
     height: 550px;
 }
