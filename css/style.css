@@ -53,8 +53,15 @@ ul{
 }
 
 table{
+    text-align: start;
+    border-collapse:collapse;
     width: 100%;
+    
 }
 table > thead{
     background-color: #4ea0ff;
+}
+th{
+    width: 400px;
+    color: white;
 }
